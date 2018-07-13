@@ -94,9 +94,7 @@ struct Student {
 			temp[i].Unos(_izostanci[i]._datumIzostanka, _izostanci[i]._brojSati);
 			if (_izostanci[i]._opravdano == true)
 			{
-				temp[i]._opravdano = _izostanci[i]._opravdano;
-				temp[i]._razlogIzostanka = new char[strlen(_izostanci[i]._razlogIzostanka) + 1];
-				strcpy_s(temp[i]._razlogIzostanka, strlen(_izostanci[i]._razlogIzostanka) + 1, _izostanci[i]._razlogIzostanka);
+				temp[i].Opravdaj(_izostanci[i]._razlogIzostanka);
 			}
 		}
 		delete[] _izostanci;
