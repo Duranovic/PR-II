@@ -1,0 +1,5 @@
+﻿  Zadatak 003 - Obaveze na predmetu.cpp
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 003 - obaveze na predmetu\zadatak 003 - obaveze na predmetu\zadatak 003 - obaveze na predmetu.cpp(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 003 - obaveze na predmetu\zadatak 003 - obaveze na predmetu\zadatak 003 - obaveze na predmetu.cpp(218): warning C4101: 'datumIntegralni': unreferenced local variable
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 003 - obaveze na predmetu\zadatak 003 - obaveze na predmetu\zadatak 003 - obaveze na predmetu.cpp(225): warning C4101: 'prII_FromFile': unreferenced local variable
+  Zadatak 003 - Obaveze na predmetu.vcxproj -> C:\Users\HP\Desktop\Private\C++\PR-II\Ispitni zadaci\Integralno\Zadatak 003 - Obaveze na predmetu\x64\Debug\Zadatak 003 - Obaveze na predmetu.exe
