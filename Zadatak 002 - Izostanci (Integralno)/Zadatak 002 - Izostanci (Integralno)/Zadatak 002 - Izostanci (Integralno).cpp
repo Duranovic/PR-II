@@ -1,5 +1,5 @@
 ﻿// Zadatak 002 - Izostanci (Integralno).cpp : Defines the entry point for the console application.
-// AKO BUDE GREŠAKA, PREDLOŽI IZMJENU. 
+// UKOLIKO BUDE GREŠAKA, PREDLOŽI IZMJENU. https://github.com/VelidPro/Integralno
 
 #include "stdafx.h"
 #include <fstream>
