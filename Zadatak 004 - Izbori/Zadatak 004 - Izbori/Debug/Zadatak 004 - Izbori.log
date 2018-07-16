@@ -1,0 +1,6 @@
+﻿  Zadatak 004 - Izbori.cpp
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 004 - izbori\zadatak 004 - izbori\zadatak 004 - izbori.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 004 - izbori\zadatak 004 - izbori\zadatak 004 - izbori.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 004 - izbori\zadatak 004 - izbori\zadatak 004 - izbori.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\private\c++\pr-ii\ispitni zadaci\integralno\zadatak 004 - izbori\zadatak 004 - izbori\zadatak 004 - izbori.cpp(210): warning C4101: 'izbori_FromFile': unreferenced local variable
+  Zadatak 004 - Izbori.vcxproj -> C:\Users\HP\Desktop\Private\C++\PR-II\Ispitni zadaci\Integralno\Zadatak 004 - Izbori\Debug\Zadatak 004 - Izbori.exe
